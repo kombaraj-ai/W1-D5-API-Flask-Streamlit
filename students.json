@@ -1,0 +1,68 @@
+[
+  {
+    "student_id": "STU001",
+    "student_name": "Arun Kumar",
+    "years_of_experience": 3,
+    "company_name": "Infosys"
+  },
+  {
+    "student_id": "STU002",
+    "student_name": "Priya Sharma",
+    "years_of_experience": 5,
+    "company_name": "TCS"
+  },
+  {
+    "student_id": "STU003",
+    "student_name": "Ravi Chandran",
+    "years_of_experience": 1,
+    "company_name": "Wipro"
+  },
+  {
+    "student_id": "STU004",
+    "student_name": "Deepa Nair",
+    "years_of_experience": 7,
+    "company_name": "HCL Technologies"
+  },
+  {
+    "student_id": "STU005",
+    "student_name": "Mohammed Farooq",
+    "years_of_experience": 4,
+    "company_name": "Cognizant"
+  },
+  {
+    "student_id": "STU006",
+    "student_name": "Sneha Patel",
+    "years_of_experience": 2,
+    "company_name": "Tech Mahindra"
+  },
+  {
+    "student_id": "STU007",
+    "student_name": "Vikram Singh",
+    "years_of_experience": 6,
+    "company_name": "Accenture"
+  },
+  {
+    "student_id": "STU008",
+    "student_name": "Lakshmi Menon",
+    "years_of_experience": 0,
+    "company_name": "Freshworks"
+  },
+  {
+    "student_id": "STU009",
+    "student_name": "Karthik Rajan",
+    "years_of_experience": 9,
+    "company_name": "Zoho Corporation"
+  },
+  {
+    "student_id": "STU010",
+    "student_name": "Ananya Bose",
+    "years_of_experience": 3,
+    "company_name": "IBM India"
+  },
+  {
+    "student_id": "STU100",
+    "student_name": "Kumar",
+    "years_of_experience": 5,
+    "company_name": "Amazon"
+  }
+]
