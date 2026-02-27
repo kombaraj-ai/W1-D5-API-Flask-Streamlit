@@ -1,4 +1,4 @@
-# Week 1 -> Day 5 -> API, REST, Flask & Streamlit 
+# Week 1 -> Day 5 ->  REST API, Flask & Streamlit Frameworks
 
 ---
 ## Table of Contents

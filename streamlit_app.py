@@ -221,7 +221,7 @@ GET    /health""", language="text")
 
 
 # ── Main Header ───────────────────────────────────────────────────────────────
-st.markdown("# 🎓 Student Management System - Using Flask Web Framework and Streamlit Frontend")
+st.markdown("# 🎓 Student Management System")
 st.markdown("*A hands-on tool to explore GET, POST, PUT and DELETE operations*")
 st.markdown("---")
 
